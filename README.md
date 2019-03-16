@@ -1,1 +1,1 @@
-# Google-sign-in-with-react-native-and-expo
+# Google sign in with react native expo and firebase
